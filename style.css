@@ -42,3 +42,29 @@ a:hover {
     font-size: 48px;
     font-weight: bolder;
 }
+
+.title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+button,
+.action {
+    background: #3882F6;
+}
+
+article .container {
+    background: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: lighter;
+}
+
+.end {
+    color: #E5E7EB;
+}
+
+.navbar{
+    
+}
