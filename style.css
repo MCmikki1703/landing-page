@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.navbar,
+.header, 
+.footer {
+    background: #1F2937;
+}
+
+.main-text,
+.logo {
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a,
+p {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+a:hover {
+    color:aqua;
+}
+
+.main-text {
+    font-size: 48px;
+    font-weight: bolder;
+}
