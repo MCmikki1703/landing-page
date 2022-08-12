@@ -30,7 +30,8 @@ ul {
 }
 
 a,
-p {
+p,
+.img-caption {
     text-decoration: none;
     font-size: 18px;
     color: #E5E7EB;
@@ -96,4 +97,23 @@ article .container {
     display: flex;
     align-items:center;
     justify-content: space-between;
+}
+
+section img {
+    height: auto;
+    width: 200px;
+}
+
+.img-caption {
+    color:#1F2937;
+}
+
+.title {
+    text-align: center;
+    margin-top: 30px
+}
+
+section .container {
+    display: flex;
+    flex-direction: row;
 }
