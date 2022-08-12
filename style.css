@@ -81,10 +81,19 @@ article .container {
     color: #E5E7EB;
 }
 
+.container {
+    padding: 10px 40px;
+    padding-bottom: 100px;
+}
+
 .navbar .container{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px 30px;
-    padding-bottom: 100px;
+}
+
+.header .container {
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
 }
